@@ -1,0 +1,17 @@
+# Build output
+build/
+dist/
+*.o
+*.obj
+*.elf
+*.hex
+*.map
+*.lst
+*.d
+*.i
+*.p1
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
