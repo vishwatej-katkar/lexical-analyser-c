@@ -4,7 +4,7 @@ int main(){
 
     int a = 5;
     float b = 10.5;
-    char *ptr = "Hi Emerxte";
+    char *ptr = "Hi Everyone";
     int sum = 0;
 
     for(int i=5; i>=0; i--){
